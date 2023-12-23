@@ -4,6 +4,7 @@ Facial expression detection is a sophisticated technology designed to analyze an
 
 #methodolgy
 
+![WhatsApp Image 2023-12-23 at 12 58 40_e432c2bd](https://github.com/Yuvraj0444/facial-expression-detection/assets/150776511/03b05d78-521d-4f56-a099-b966e482a92e)
 
 
 
