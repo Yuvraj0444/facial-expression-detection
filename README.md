@@ -8,10 +8,15 @@ Facial expression detection is a sophisticated technology designed to analyze an
 
 
 
-#sample images of the prject
+sample images of the prject
 
 
-#happy
+
+
+happy
+
+
+
 
 
 ![happy](https://github.com/Yuvraj0444/facial-expression-detection/assets/150776511/32362681-e40c-47dc-ba87-394f9d3e9a73)
@@ -21,11 +26,17 @@ Facial expression detection is a sophisticated technology designed to analyze an
 #sad
 
 
+
+
+
 ![sad](https://github.com/Yuvraj0444/facial-expression-detection/assets/150776511/934a7557-e689-4ca0-9165-dbcf3a362cf6)
 
 
 
 #angry
+
+
+
 
 
 
