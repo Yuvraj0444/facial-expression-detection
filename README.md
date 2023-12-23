@@ -23,7 +23,7 @@ happy
 
 
 
-#sad
+sad
 
 
 
@@ -33,7 +33,7 @@ happy
 
 
 
-#angry
+angry
 
 
 
